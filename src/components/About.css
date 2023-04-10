@@ -1,0 +1,46 @@
+.about-container {
+    background-color:  #d8d8d8 ;
+    width: 75%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-weight: bold;
+}
+
+summary {
+    font-size: 1.5em;
+}
+
+p {
+    font-size: 1.5em;
+    border: 1px solid black;
+    padding: 10px;
+    display: inline-block;
+    background-color: white;
+    max-width: 60%;
+}
+
+ul {
+    border: 1px solid black;
+    padding: 10px 10px 10px 30px;
+    display: inline-block;
+    background-color: white;
+}
+li {
+    font-size: 1.5em;
+}
+h1 {
+    border: 1px solid black;
+    padding: 10px;
+    display: inline-block;
+    background-color: white;
+}
+
+h3 {
+    border: 1px solid black;
+    padding: 10px;
+    display: inline-block;
+    background-color: white;
+}
