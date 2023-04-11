@@ -125,19 +125,17 @@ Thomas Jefferson recognized as much, preparing a letter for the fiftieth anniver
             <p>Prosecute dishonesty, also known as perjury, committed before the Senate and the House of Representative. The legislature is the instrument and agent of the people's will. The conditions for truthful communications in the environment where the people's will is embodied must be preserved.</p>
         </details>
         <details>
-            <summary>28. Prohibition of Domestic Surveillance</summary>
+            <summary>28. Prohibition of Domestic Surveillance Principle</summary>
             <p>"What more is neccessary to make us a happy and prosperous people? Still one thing more, fellow-citizens -- a wise and frugal Government, which shall restrain men from injuring one another, shall leave them otherwise free to regulate their own pursuits of industry and improvement, and shall not take from the mouth of labor the bread it has earned," Thomas Jefferson wrote in the First Inaugural Address.</p>
-            <p>"I know, indeed, that some honest men fear that a republican government can not be strong, that this Government is not strong enough; but would the honest patriot, in the full tide of successful experiment, abandon a government which has so far kept us free and firm on the theoretic and visionary fear that this Government, the world's best hope, may by possibility want energy to preserve itself? I trust not. I believe this, on the contrary, the strongest Government on earth. I believe it the only one where every man, at the call of the law, would fly to the standard of the law, and would meet invasions of the public order as his own personal concern. Sometimes it is said that man can not be trusted with the government of himself. Can he, then, be trusted with the government of others? Or have we found angels in the forms of kings to govern him? Let history answer this question," Thomas Jefferson wrote in the First Inaugural Address.
-
-            </p>
+            <p>"I know, indeed, that some honest men fear that a republican government can not be strong, that this Government is not strong enough; but would the honest patriot, in the full tide of successful experiment, abandon a government which has so far kept us free and firm on the theoretic and visionary fear that this Government, the world's best hope, may by possibility want energy to preserve itself? I trust not. I believe this, on the contrary, the strongest Government on earth. I believe it the only one where every man, at the call of the law, would fly to the standard of the law, and would meet invasions of the public order as his own personal concern. Sometimes it is said that man can not be trusted with the government of himself. Can he, then, be trusted with the government of others? Or have we found angels in the forms of kings to govern him? Let history answer this question," Thomas Jefferson wrote in the First Inaugural Address.</p>
         </details>
         <details>
-            <summary></summary>
-            <p></p>
+            <summary>29. Prohibition of Using Foreign Nationals To Bypass Surveillance Restrictions Principle</summary>
+            <p>The practice of using foreign nationals to bypass U.S. laws is unconstitutional. Legal documents have demonstrated a practice by certain federal agencies to house data about Americans in countries like Australia, then ask the Australian police to carry out surveillance on behalf of the federal agencies. <a href='https://www.schneier.com/blog/archives/2022/01/using-foreign-nationals-to-bypass-us-surveillance-restrictions.html' target="_blank" rel='noreferrer'>Report</a>.</p>
         </details>
         <details>
-            <summary></summary>
-            <p></p>
+            <summary>30. Removal of State Secret Label to Cover Up Legal Infractions by Government Staff Principle</summary>
+            <p>The principle calls for the enforcement of U.S. § 17.22 (d), which states, "Information shall not be classified in order to conceal inefficiency, violations of law, or administrative error; to prevent embarrassment to a person, organization, or agency; to restrain competition; or to prevent or delay release of information that does not require protection in the interest of national security. Information that has been declassified and released to the public under proper authority may not be reclassified."</p>
         </details>
         <details>
             <summary></summary>
