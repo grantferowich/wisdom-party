@@ -38,7 +38,7 @@ export default function About() {
             <p>That the separation of the moneys of the government from banking institutions, is indispensable for the safety of the funds of the government, and the rights of the people.</p>
         </details>
         <details>
-            <summary>8. The Thomas Jefferson Principle</summary>
+            <summary>8. Thomas Jefferson Principle</summary>
             <p>That the liberal principles embodied by Jefferson in the Declaration of Independence, and sanctioned in the constitution, which makes ours the land of liberty, and the asylum of the oppressed of every nation, have ever been cardinal principles in the democratic faith; and every attempt to abridge the present privilege of becoming citizens, and the owners of soil among us, ought to be resisted with the same spirit which swept the alien and sedition laws from our statute-book.</p>
         </details>
         <details>
@@ -46,7 +46,7 @@ export default function About() {
             <p>You have to show an ID to buy beer, therefore, you have to show an ID to vote.</p>
         </details>
         <details>
-            <summary>10. The Deliberate Defense Principle</summary>
+            <summary>10. Deliberate Defense Principle</summary>
             <p> 48 out of 50 state legislatures must ratify any initiation of a military operation or declaration of war.</p>
         </details>
         <details>
@@ -73,12 +73,44 @@ export default function About() {
             <p>The Federal Reserve's role as a provider of payment rails for the facilitation of commerce between states must be handled by state banks, such as the bank of Illinois, the bank of North Carolina, the bank of Texas, the bank of Florida, and so on.</p>
         </details>
         <details>
-            <summary></summary>
-            <p></p>
+            <summary>16. Abolition to the Department of Homeland Security Principle</summary>
+            <p>The Department of Defense secures America's borders. Americans live in safety and freedom because of the Department of Defense. The Department of Homeland Security is superflous.</p>
         </details>
         <details>
-            <summary></summary>
-            <p></p>
+            <summary>17. Pareto Principle</summary>
+            <p>Apply the Pareto Principle to essential government services. 20% of the workers are producing 80% of the value of the government services. Eliminate the non-productive laborers employed by the government by cutting 80% of staff.</p>
+        </details>
+        <details>
+            <summary>18. Abolition of Forced Labor Principle</summary>
+            <p>Forced labor was wrong during the period of America's history when slavery was a common practice in certain areas. Over time, we recognized forced labor is morally heinous and therefore illegal. We abhor forced labor in its present form of the Federal Income Tax.</p>
+            <p>Suppose the federal income tax is 20%. The meaning of the 20% income tax is that one in five hours of productive work is for the government. Another valid conception of how forced labor has made a way into the present is to consider the calendar year. With a 20% income tax, the first 2.4 months of the year result in you making income which solely goes to the government. With a 20% federal income tax, you may only keep 9.6 months of earnings in return for working 12 months. Forced labor in its present form must be abolished. </p>
+        </details>
+        <details>
+            <summary>19. Speak Softly and Own The Most Bombs Principle</summary>
+            <p>The analysis of American national security is obviated by the ability to rapidly and deliberately overpower an adversary. We own the domain of military supremeacy by virtue of owning the most bombs and owning the most effective delivery platforms.</p>
+        </details>
+        <details>
+            <summary>20. Positive Return on Investment Principle</summary>
+            <p>Policy is associated with a fantastic, positive return on investment. Every dollar allocated by Congress is the property of the American taxpayer. Dollars allocated to NATO via DoD allocation, to Israel, and to Ukraine must be associated with a positive return on investment.</p>
+        </details>
+        <details>
+            <summary>21. Optimize Foreign Entanglements Principle</summary>
+            <p>George Washington insisted upon avoiding foreign entanglements. As the world superpower America is uniquely positioned to be involved in countries spanning the globe. We must harmonize relations with foreign nations through optimization.</p>
+        </details>
+        <details>
+            <summary>22. Look Out For Those Neighbors Who Had Our Backs Principle</summary>
+            <p>We look out for those neighbors who had our backs during the war for independence: France and Poland.</p>
+        </details>
+        <details>
+            <summary>23. Honor the Spirit of '76 Principle</summary>
+            <p>The principles outlined in the Declaration of Independence promised to lead America—and other nations on the globe—into a new era of freedom.  The revolution begun by Americans on July 4, 1776 would never end.  It would inspire all peoples living under the burden of oppression and ignorance to open their eyes to the rights of mankind, to overturn the power of tyrants, and to declare the triumph of equality over inequality.
+Thomas Jefferson recognized as much, preparing a letter for the fiftieth anniversary of the adoption of the Declaration less than two weeks before his death, he expressed his belief that the Declaration, "be to the world what I believe it will be, (to some parts sooner, to others later, but finally to all.) the Signal of arousing men to burst the chains, under which Monkish ignorance and superstition had persuaded them to bind themselves, and to assume the blessings & security of self government. the form which we have substituted restores the free right to the unbounded exercise of reason and freedom of opinion. all eyes are opened, or opening to the rights of man. the general spread of the light of science has already laid open to every view the palpable truth that the mass of mankind has not been born, with saddles on their backs, nor a favored few booted and spurred, ready to ride them legitimately, by the grace of god. these are grounds of hope for others. for ourselves let the annual return of this day, for ever refresh our recollections of these rights and an undiminished devotion to them." Thomas Jefferson shared these remarks in a letter to Roger Chew Weightman in 1826. </p>
+        </details>
+        <details>
+            <summary>24. Honor the Revolution of 1800 Principle</summary>
+            <p>
+                "I had read in the Enquirer, and with great approbation the pieces signed Hampden, and have read them again with redoubled approbation in the copies you have been so kind as to send me. I subscribe to every tittle of them. they contain the true principles of the revolution of 1800. for that was as real a revolution in the principles of our government as that of 76. was in it’s form; not effected indeed by the sword, as that, but by the rational and peaceable instrument of reform, the suffrage of the people. the nation declared it’s will by dismissing functionaries of one principle, and electing those of another, in the two branches, executive and legislative, submitted to their election," Thomas Jefferson said to Spencer Roane in a letter from 1819.
+            </p>
         </details>
         <details>
             <summary></summary>
