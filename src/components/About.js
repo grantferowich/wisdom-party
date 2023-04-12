@@ -95,7 +95,7 @@ export default function About() {
         </details>
         <details>
             <summary>21. Optimize Foreign Entanglements Principle</summary>
-            <p>George Washington insisted upon avoiding foreign entanglements. As the world superpower America is uniquely positioned to be involved in countries spanning the globe. We must harmonize relations with foreign nations through optimization.</p>
+            <p>George Washington insisted upon avoiding foreign entanglements. As the world superpower America is uniquely positioned to be involved with countries spanning the globe. We must harmonize relations with foreign nations through optimization.</p>
         </details>
         <details>
             <summary>22. Look Out For Those Neighbors Who Had Our Backs Principle</summary>
@@ -138,8 +138,16 @@ Thomas Jefferson recognized as much, preparing a letter for the fiftieth anniver
             <p>The principle calls for the enforcement of U.S. § 17.22 (d), which states, "Information shall not be classified in order to conceal inefficiency, violations of law, or administrative error; to prevent embarrassment to a person, organization, or agency; to restrain competition; or to prevent or delay release of information that does not require protection in the interest of national security. Information that has been declassified and released to the public under proper authority may not be reclassified."</p>
         </details>
         <details>
-            <summary></summary>
-            <p></p>
+            <summary>31. Bill of Rights Accountability Principle</summary>
+            <p>Any government staff found to have engaged in behavior which does not uphold the rights enumerated in the Bill of Rights must face a fine of no less than $10,000.00. Infractions include erorrs on FISA applications and FISA noncompliance. <a href='https://www.lawfareblog.com/fbis-fisa-mess' target="_blank" rel='noreferrer'>Report</a>.</p>
+        </details>
+        <details>
+            <summary>32. Support the Fourth Amendment Restoration Act Principle</summary>
+            <p>The Fourth Amendment Restoration Act, introduced by Rep. Andy Biggs (R-AZ) in 2023, fully repeals the Foreign Intelligence Surveillance Act (FISA), prohibits warrantless surveillance of Americans, and criminalizes warrantless surveillance with a $10,000.00 fine and up to five years of imprisonment. <a href='https://biggs.house.gov/sites/evo-subsites/biggs.house.gov/files/evo-media-document/BIGGS_180_xml.pdf' target='_blank' rel='noreferrer'>Bill text</a>. <a href='https://biggs.house.gov/media/press-releases/congressman-biggs-fbi-actors-involved-new-surveillance-abuse-will-be-brought' target='_blank' rel='noreferrer'>Report</a>.</p>
+        </details>
+        <details>
+            <summary>33. Purpose Principle</summary>
+            <p>Freedom is not for sale. We are not willing to part with freedom, no matter the price. We must not see the government solely as an organization which taxes and spends, but as that human institution which upholds and honors all of the freedoms and rights enumerated in the Declaration of Independence for all Americans.</p>
         </details>
         <h3>© Copyright, Grant Ferowich</h3>
     </div>
