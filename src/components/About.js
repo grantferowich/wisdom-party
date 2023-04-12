@@ -73,7 +73,7 @@ export default function About() {
             <p>The Federal Reserve's role as a provider of payment rails for the facilitation of commerce between states must be handled by state banks, such as the bank of Illinois, the bank of North Carolina, the bank of Texas, the bank of Florida, and so on.</p>
         </details>
         <details>
-            <summary>16. Abolition to the Department of Homeland Security Principle</summary>
+            <summary>16. Abolition of the Department of Homeland Security Principle</summary>
             <p>The Department of Defense secures America's borders. Americans live in safety and freedom because of the Department of Defense. The Department of Homeland Security is superflous.</p>
         </details>
         <details>
