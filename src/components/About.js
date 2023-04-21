@@ -149,7 +149,7 @@ Thomas Jefferson recognized as much, preparing a letter for the fiftieth anniver
         </details>
         <details>
             <summary>34. Keep American Corridors Safe Principle</summary>
-            <p>Keep American corridors safe by prohibiting the acquisition of lobbying representatives by foreign governments. The will of the American people is embodied in the United States Congress. For Congress to most effectively make laws and rules for Americans and their families the members of Congress must not be followed, harassed, or bothered by lobbyists representing foreign countries aiming to cause focus dilution among the legislators.</p>
+            <p>Keep American corridors safe by prohibiting the acquisition of lobbying representatives by foreign governments. The will of the American people is embodied in the United States Congress. For Congress to most effectively make laws and rules on behalf of Americans and their families the members of Congress must not be followed, harassed, or bothered by lobbyists representing foreign countries aiming to cause focus dilution among the legislators.</p>
         </details>
         <details>
             <summary>35. Support the Disclosing Foreign Influence in Lobbying Act Principle</summary>
