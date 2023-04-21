@@ -148,12 +148,12 @@ Thomas Jefferson recognized as much, preparing a letter for the fiftieth anniver
             <p>Freedom is not for sale. We are not willing to part with freedom, no matter the price. We must not see the government solely as an organization which taxes and spends, but as that human institution which upholds and honors all of the freedoms and rights enumerated in the Declaration of Independence for all Americans.</p>
         </details>
         <details>
-            <summary>33. Purpose Principle</summary>
-            <p>Freedom is not for sale. We are not willing to part with freedom, no matter the price. We must not see the government solely as an organization which taxes and spends, but as that human institution which upholds and honors all of the freedoms and rights enumerated in the Declaration of Independence for all Americans.</p>
+            <summary>34. Keep American Corridors Safe Principle</summary>
+            <p>Keep American corridors safe by outlawing the acquisition of legal representation and lobbying representation by foreign governments. The will of the American people is embodied in the United States Congress. For Congress to most effectively make laws and rules for Americans and their families the members of Congress must not be followed, harassed, or bothered by lobbyists representing foreign countries aiming to cause focus dilution among the legislators.</p>
         </details>
         <details>
-            <summary>33. Keep American Corridors Safe Principle</summary>
-            <p>Keep American corridors safe by outlawing the acquisition of legal representation and lobbying representation by foreign governments. The will of the American people is embodied in the United States Congress. For Congress to most effectively make laws and rules for Americans and their families the members of Congress must not be followed, harassed, or bothered by lobbyists representing foreign countries aiming to cause focus dilution among the legislators.</p>
+            <summary>35. Support the Disclosing Foreign Influence in Lobbying Act Principle</summary>
+            <p>Foreign countries like China have sought to influence policymaking in the United States via contributions to LLCs and for-profit entities. The law requires disclosures to think thanks and non-profits. Passing the Disclosing Foreign Influence in Lobbying Act requires foreign governments to disclose the names of all of the organizations they are contributed funds toward. <a href='https://www.grassley.senate.gov/news/news-releases/senators-reintroduce-bill-to-crack-down-on-undisclosed-foreign-influence' target='_blank' rel='noreferrer'>Report</a>.</p>
         </details>
         <h3>© Copyright, Grant Ferowich</h3>
     </div>
