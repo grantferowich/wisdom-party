@@ -155,6 +155,10 @@ Thomas Jefferson recognized as much, preparing a letter for the fiftieth anniver
             <summary>35. Support the Disclosing Foreign Influence in Lobbying Act Principle</summary>
             <p>Foreign countries like China have sought to influence policymaking in the United States via contributions to LLCs and for-profit entities. The law requires disclosures to think thanks and non-profits. Passing the Disclosing Foreign Influence in Lobbying Act requires foreign governments to disclose the names of all of the organizations they are contributed funds toward. <a href='https://www.grassley.senate.gov/news/news-releases/senators-reintroduce-bill-to-crack-down-on-undisclosed-foreign-influence' target='_blank' rel='noreferrer'>Report</a>.</p>
         </details>
+        <details>
+            <summary>36. Do Right by the American People Principle</summary>
+            <p>The hardworking men and women of the United States have created Congress to embody their will. Congress must function in a way which makes the men and women of the United States proud.</p>
+        </details>
         <h3>© Copyright 2023 Grant Ferowich. All rights reserved.</h3>
     </div>
   )
