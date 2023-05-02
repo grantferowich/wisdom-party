@@ -159,6 +159,10 @@ Thomas Jefferson recognized as much, preparing a letter for the fiftieth anniver
             <summary>36. Do Right by the American People Principle</summary>
             <p>The hardworking men and women of the United States have created Congress to embody their will. Congress must function in a way which makes the men and women of the United States proud.</p>
         </details>
+        <details>
+            <summary>37. Honor Benjamin Franklin Principle</summary>
+            <p>Benjamin Franklin once wrote ""Those who would give up essential liberty, to purchase a little temporary safety, deserve neither liberty nor safety." Franklin's words are hereby reaffirmed. </p>
+        </details>
         <h3>© Copyright 2023 Grant Ferowich. All rights reserved.</h3>
     </div>
   )
