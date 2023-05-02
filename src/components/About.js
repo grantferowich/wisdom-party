@@ -161,7 +161,7 @@ Thomas Jefferson recognized as much, preparing a letter for the fiftieth anniver
         </details>
         <details>
             <summary>37. Honor Benjamin Franklin Principle</summary>
-            <p>Benjamin Franklin once wrote ""Those who would give up essential liberty, to purchase a little temporary safety, deserve neither liberty nor safety." Franklin's words are hereby reaffirmed. </p>
+            <p>Benjamin Franklin once wrote "Those who would give up essential liberty, to purchase a little temporary safety, deserve neither liberty nor safety." Franklin's words are hereby reaffirmed. </p>
         </details>
         <h3>© Copyright 2023 Grant Ferowich. All rights reserved.</h3>
     </div>
