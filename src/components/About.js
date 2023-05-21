@@ -163,6 +163,10 @@ Thomas Jefferson recognized as much, preparing a letter for the fiftieth anniver
             <summary>37. Honor Benjamin Franklin Principle</summary>
             <p>Benjamin Franklin once wrote "Those who would give up essential liberty, to purchase a little temporary safety, deserve neither liberty nor safety." Franklin's words are hereby reaffirmed. </p>
         </details>
+        <details>
+            <summary>38. Play to Win Principle</summary>
+            <p>Play to win when harmonizing ties with foreign nations through optimization. Always reject the path of playing not to lose.</p>
+        </details>
         <h3>© Copyright 2023 Grant Ferowich. All rights reserved.</h3>
     </div>
   )
